@@ -1,0 +1,19 @@
+Id,communality,error,rmsea,value,moderror
+1,Low,xl,0,0,e=0
+2,Wide,xl,0,0,e=0
+3,High,xl,0,0,e=0
+4,Low,xl,0.03,0.21,e=0.03 (XL)
+5,Wide,xl,0.03,0.14,e=0.03 (XL)
+6,High,xl,0.03,0.11,e=0.03 (XL)
+7,Low,xl,0.09,0.88,e=0.09 (XL)
+8,Wide,xl,0.09,0.46,e=0.09 (XL)
+9,High,xl,0.09,0.35,e=0.09 (XL)
+1,Low,rc,0,0,e=0
+2,Wide,rc,0,0,e=0
+3,High,rc,0,0,e=0
+13,Low,rc,0.03,0.174,e=0.03 (RC)
+14,Wide,rc,0.03,0.187,e=0.03 (RC)
+15,High,rc,0.03,0.176,e=0.03 (RC)
+16,Low,rc,0.09,0.461,e=0.09 (RC)
+17,Wide,rc,0.09,0.505,e=0.09 (RC)
+18,High,rc,0.09,0.463,e=0.09 (RC)
